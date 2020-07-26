@@ -1,0 +1,28 @@
+= EmbeddedToolbox
+Aakash Kumar 2020
+Version 0.2, 26.07.2020
+:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: Table of Contents
+
+:description: Project Documentation
+:keywords: AsciiDoc
+:imagesdir: ./img
+
+A GUI application for Windows (currently) and python package for controlling various development boards.
+Currently it supports Boards with Arduino-core and STM32 HAL/LL libraries.
+
+
+
+== Elements
+
+There are 5 Repos for this project.
+.Table
+|===
+|Repo | Description
+|https://github.com/AakashKumar21/EmbeddedToolbox-pythonpkg[Python Package] |
+|https://github.com/AakashKumar21/EmbeddedToolbox-stm32[STM32 HAL/LL Code] |
+|https://github.com/AakashKumar21/EmbeddedToolbox-GUI[GUI Client] |
+|https://github.com/AakashKumar21/EmbeddedToolbox-arduino[Arduino Code]|
+|===
