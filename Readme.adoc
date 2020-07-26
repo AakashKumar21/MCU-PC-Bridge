@@ -1,6 +1,9 @@
 = EmbeddedToolbox
 Aakash Kumar 2020
 Version 0.2, 26.07.2020
+A GUI application for Windows (currently) and python package for controlling various development boards.
+Currently it supports Boards with Arduino-core and STM32 HAL/LL libraries.
+
 :sectnums:
 :toc:
 :toclevels: 4
@@ -9,11 +12,6 @@ Version 0.2, 26.07.2020
 :description: Project Documentation
 :keywords: AsciiDoc
 :imagesdir: ./img
-
-A GUI application for Windows (currently) and python package for controlling various development boards.
-Currently it supports Boards with Arduino-core and STM32 HAL/LL libraries.
-
-
 
 == Elements
 
